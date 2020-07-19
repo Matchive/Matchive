@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66711815381",
+    "firebase_url": "https://matchive.firebaseio.com",
+    "project_id": "matchive",
+    "storage_bucket": "matchive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66711815381:android:c8a95958a0598d92db4e5c",
+        "android_client_info": {
+          "package_name": "com.matchive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66711815381-ok3jvkifaf9p5apvqfiq8qguqd0kh7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpeJntj7ouI0yadR7RjSF8Now43JPW7xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66711815381-ok3jvkifaf9p5apvqfiq8qguqd0kh7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
